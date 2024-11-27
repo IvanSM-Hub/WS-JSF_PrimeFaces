@@ -10,8 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
      /**
       * Rigourous Test :-)
       */
-     public void testApp()
-     {
+     public void testApp() {
          assertTrue( true );
      }
  }
